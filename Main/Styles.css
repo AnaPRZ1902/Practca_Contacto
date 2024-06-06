@@ -1,0 +1,9 @@
+.Titulo{
+    color: dimgrey;
+    font-size: 45px;
+}
+.borde{
+    border: 5px solid black;
+    margin-left: 400px;
+    margin-right: 400px;
+}
